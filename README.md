@@ -13,3 +13,10 @@ arabic-root-word-lookup
 - [Category:Arabic terms by root - Wiktionary, the free dictionary](https://en.wiktionary.org/wiki/Category:Arabic_terms_by_root)
 - [Category:Arabic roots by number of letters - Wiktionary, the free dictionary](https://en.wiktionary.org/wiki/Category:Arabic_roots_by_number_of_letters)
 - [**Appendix:Arabic roots - Wiktionary, the free dictionary**](https://en.wiktionary.org/wiki/Appendix:Arabic_roots)
+
+### Alphabets
+- [Arabic alphabet - Wikipedia](https://en.wikipedia.org/wiki/Arabic_alphabet)
+- [Arabic Alphabet: All the Letters Explained - Busuu](https://www.busuu.com/en/arabic/alphabet)
+
+### Examples
+- [K-T-B - Wikipedia](https://en.wikipedia.org/wiki/K-T-B)
